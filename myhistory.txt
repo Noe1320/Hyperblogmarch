@@ -1,3 +1,5 @@
 Hi! this is my first history using 
 
 git hub services, git hub is awesome!
+
+now, I write the second commit
