@@ -4,7 +4,7 @@ Un blog increible para el curso de Git y Github de Platzi
 salario y lanzarme a la industria con Machine Learning
 > - niñita
 
-##En este curso vemos de todo
+## En este curso vemos de todo
 * Todos los comandos de Git
 * Flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
