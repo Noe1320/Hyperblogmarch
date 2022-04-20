@@ -11,6 +11,7 @@ salario y lanzarme a la industria con Machine Learning
 * Trucos muy locos del profesor
 * Creado por One
 * Incluye ejemplos
+* Disponible para todos
 
 Y como un amable recordatorio: **Este readme.md es un chiste.** diseñado
 para el ejemplo. No te lo tomes EN SERIO.
